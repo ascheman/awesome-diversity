@@ -3,6 +3,7 @@
 Here you have the awesome people who contributed to this list (ordered **alphabetically** by **surname**):
 
 - [Oriol Abril Pla](https://github.com/OriolAbril)
+- [Gerd Aschemann](https://github.com/ascheman)
 - [María Arias de Reyna](https://github.com/Delawen).
 - [Alex Cureton-Griffiths](https://alexcg1.github.io).
 - [Ana Dias](https://github.com/baiana).
